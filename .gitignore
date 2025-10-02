@@ -1,0 +1,7 @@
+﻿*.class
+*.pdf
+*.docx
+/.vscode
+/.idea
+bin/
+out/
